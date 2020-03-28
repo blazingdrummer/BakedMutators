@@ -2,7 +2,7 @@
   "name": "BakedMutators",
   "version_number": "1.0.0",
   "website_url": "https://discord.gg/QRtdUbV",
-  "description": "A set of mods that can be toggled on/off for some new ways to play. Originally assembled, tested, and balanced for the BakedModpack, but should work with others.",
+  "description": "A modpack originally created as an addon for the Baked modpack containing game-changing mods and unique ways to play the game. Suitable for use with other packs.",
   "dependencies": [
 	"SirQuacker-Every_item_is_x-1.0.0",
 	"mrarm-ChestItemPicker-1.1.1",
